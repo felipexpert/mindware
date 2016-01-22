@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/var/repo/waitermobo/mindware/src/main/res"><file path="/var/repo/waitermobo/mindware/src/main/res/values/strings.xml" qualifiers=""><string name="app_name">Mindware</string></file></source><source path="/var/repo/waitermobo/mindware/build/generated/res/rs/debug"/><source path="/var/repo/waitermobo/mindware/build/generated/res/generated/debug"/></dataSet><dataSet config="debug"><source path="/var/repo/waitermobo/mindware/src/debug/res"/></dataSet><mergedItems/></merger>

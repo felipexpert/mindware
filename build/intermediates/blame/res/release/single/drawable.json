@@ -8,6 +8,10 @@
         "source": "/var/repo/FastworkMobile/mindware/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/drawable/abc_ratingbar_full_material.xml"
     },
     {
+        "merged": "/var/repo/FastworkMobile/mindware/build/intermediates/res/merged/release/drawable/profile.png",
+        "source": "/var/repo/FastworkMobile/mindware/src/main/res/drawable/profile.png"
+    },
+    {
         "merged": "/var/repo/FastworkMobile/mindware/build/intermediates/res/merged/release/drawable/abc_btn_check_material.xml",
         "source": "/var/repo/FastworkMobile/mindware/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/drawable/abc_btn_check_material.xml"
     },
@@ -40,12 +44,20 @@
         "source": "/var/repo/FastworkMobile/mindware/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/drawable/abc_switch_thumb_material.xml"
     },
     {
+        "merged": "/var/repo/FastworkMobile/mindware/build/intermediates/res/merged/release/drawable/chat.png",
+        "source": "/var/repo/FastworkMobile/mindware/src/main/res/drawable/chat.png"
+    },
+    {
         "merged": "/var/repo/FastworkMobile/mindware/build/intermediates/res/merged/release/drawable/abc_dialog_material_background_light.xml",
         "source": "/var/repo/FastworkMobile/mindware/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/drawable/abc_dialog_material_background_light.xml"
     },
     {
         "merged": "/var/repo/FastworkMobile/mindware/build/intermediates/res/merged/release/drawable/abc_spinner_textfield_background_material.xml",
         "source": "/var/repo/FastworkMobile/mindware/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/drawable/abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "/var/repo/FastworkMobile/mindware/build/intermediates/res/merged/release/drawable/key.png",
+        "source": "/var/repo/FastworkMobile/mindware/src/main/res/drawable/key.png"
     },
     {
         "merged": "/var/repo/FastworkMobile/mindware/build/intermediates/res/merged/release/drawable/abc_list_selector_background_transition_holo_dark.xml",

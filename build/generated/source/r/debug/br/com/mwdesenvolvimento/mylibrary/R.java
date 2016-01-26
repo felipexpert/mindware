@@ -1521,7 +1521,14 @@ containing a value of this type.
         public static int abc_textfield_search_activated_mtrl_alpha=0x7f020038;
         public static int abc_textfield_search_default_mtrl_alpha=0x7f020039;
         public static int abc_textfield_search_material=0x7f02003a;
-        public static int notification_template_icon_bg=0x7f02003b;
+        public static int bell=0x7f02003b;
+        public static int briefcase=0x7f02003c;
+        public static int chat=0x7f02003d;
+        public static int gear=0x7f02003e;
+        public static int key=0x7f02003f;
+        public static int notification=0x7f020040;
+        public static int notification_template_icon_bg=0x7f020042;
+        public static int profile=0x7f020041;
     }
     public static final class id {
         public static int action0=0x7f0b0050;
@@ -1652,7 +1659,7 @@ containing a value of this type.
         public static int abc_select_dialog_material=0x7f030017;
         public static int abc_simple_dropdown_hint=0x7f030018;
         public static int ac_test=0x7f030019;
-        public static int fr_header=0x7f03001a;
+        public static int fr_footer=0x7f03001a;
         public static int notification_media_action=0x7f03001b;
         public static int notification_media_cancel_action=0x7f03001c;
         public static int notification_template_big_media=0x7f03001d;

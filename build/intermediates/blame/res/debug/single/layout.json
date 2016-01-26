@@ -1,11 +1,11 @@
 [
     {
-        "merged": "/var/repo/FastworkMobile/mindware/build/intermediates/res/merged/debug/layout/notification_template_media.xml",
-        "source": "/var/repo/FastworkMobile/mindware/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/layout/notification_template_media.xml"
-    },
-    {
         "merged": "/var/repo/FastworkMobile/mindware/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
         "source": "/var/repo/FastworkMobile/mindware/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/var/repo/FastworkMobile/mindware/build/intermediates/res/merged/debug/layout/notification_template_media.xml",
+        "source": "/var/repo/FastworkMobile/mindware/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/layout/notification_template_media.xml"
     },
     {
         "merged": "/var/repo/FastworkMobile/mindware/build/intermediates/res/merged/debug/layout/notification_media_action.xml",
@@ -50,10 +50,6 @@
     {
         "merged": "/var/repo/FastworkMobile/mindware/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
         "source": "/var/repo/FastworkMobile/mindware/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/layout/abc_popup_menu_item_layout.xml"
-    },
-    {
-        "merged": "/var/repo/FastworkMobile/mindware/build/intermediates/res/merged/debug/layout/fr_header.xml",
-        "source": "/var/repo/FastworkMobile/mindware/src/main/res/layout/fr_header.xml"
     },
     {
         "merged": "/var/repo/FastworkMobile/mindware/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
@@ -138,6 +134,10 @@
     {
         "merged": "/var/repo/FastworkMobile/mindware/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
         "source": "/var/repo/FastworkMobile/mindware/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/var/repo/FastworkMobile/mindware/build/intermediates/res/merged/debug/layout/fr_footer.xml",
+        "source": "/var/repo/FastworkMobile/mindware/src/main/res/layout/fr_footer.xml"
     },
     {
         "merged": "/var/repo/FastworkMobile/mindware/build/intermediates/res/merged/debug/layout/notification_media_cancel_action.xml",

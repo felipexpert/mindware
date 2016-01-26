@@ -406,7 +406,14 @@ int drawable abc_textfield_default_mtrl_alpha 0x7f020037
 int drawable abc_textfield_search_activated_mtrl_alpha 0x7f020038
 int drawable abc_textfield_search_default_mtrl_alpha 0x7f020039
 int drawable abc_textfield_search_material 0x7f02003a
-int drawable notification_template_icon_bg 0x7f02003b
+int drawable bell 0x7f02003b
+int drawable briefcase 0x7f02003c
+int drawable chat 0x7f02003d
+int drawable gear 0x7f02003e
+int drawable key 0x7f02003f
+int drawable notification 0x7f020040
+int drawable notification_template_icon_bg 0x7f020042
+int drawable profile 0x7f020041
 int id action0 0x7f0b0050
 int id action_bar 0x7f0b0040
 int id action_bar_activity_content 0x7f0b0000
@@ -531,7 +538,7 @@ int layout abc_search_view 0x7f030016
 int layout abc_select_dialog_material 0x7f030017
 int layout abc_simple_dropdown_hint 0x7f030018
 int layout ac_test 0x7f030019
-int layout fr_header 0x7f03001a
+int layout fr_footer 0x7f03001a
 int layout notification_media_action 0x7f03001b
 int layout notification_media_cancel_action 0x7f03001c
 int layout notification_template_big_media 0x7f03001d

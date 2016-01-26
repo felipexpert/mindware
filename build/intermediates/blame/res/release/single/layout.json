@@ -32,10 +32,6 @@
         "source": "/var/repo/FastworkMobile/mindware/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/layout/abc_search_view.xml"
     },
     {
-        "merged": "/var/repo/FastworkMobile/mindware/build/intermediates/res/merged/release/layout/fr_header.xml",
-        "source": "/var/repo/FastworkMobile/mindware/src/main/res/layout/fr_header.xml"
-    },
-    {
         "merged": "/var/repo/FastworkMobile/mindware/build/intermediates/res/merged/release/layout/notification_template_part_chronometer.xml",
         "source": "/var/repo/FastworkMobile/mindware/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/layout/notification_template_part_chronometer.xml"
     },
@@ -126,6 +122,10 @@
     {
         "merged": "/var/repo/FastworkMobile/mindware/build/intermediates/res/merged/release/layout/abc_action_menu_layout.xml",
         "source": "/var/repo/FastworkMobile/mindware/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/var/repo/FastworkMobile/mindware/build/intermediates/res/merged/release/layout/fr_footer.xml",
+        "source": "/var/repo/FastworkMobile/mindware/src/main/res/layout/fr_footer.xml"
     },
     {
         "merged": "/var/repo/FastworkMobile/mindware/build/intermediates/res/merged/release/layout/notification_template_lines.xml",

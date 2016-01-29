@@ -40,7 +40,8 @@ import br.com.mwdesenvolvimento.mylibrary.server.Initializer;
 
 //import mwdesenvolvimento.com.br.waitermobo.miscellaneous.DatabaseHelper;
 
-public class AndroidDatabaseManager extends Activity implements OnItemClickListener {
+public class
+    AndroidDatabaseManager extends Activity implements OnItemClickListener {
 
 //a static class to save cursor,table values etc which is used by functions to share data in the program.
 	static class indexInfo
